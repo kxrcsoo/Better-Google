@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+.center-div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.font {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+
+.just-test {
+    background-color: #7cc576;
+}
+
+.fancy-input {
+    background: #303030 url(../img/search.png) left center no-repeat;
+    border-radius: 0%;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    padding-left: 40px;
+    font-weight: bold;
+}
+
+.site-title {
+    font-size: 75px;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.invisible {
+    opacity: 0%;
+}
